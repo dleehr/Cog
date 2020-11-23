@@ -353,7 +353,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4S876G9VCD;
+				DEVELOPMENT_TEAM = 5T2Q4AL4L7;
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../Frameworks/libbinio/libbinio/libbinio/src",
 					"$(SRCROOT)/../../Frameworks/libbinio/libbinio",
@@ -375,7 +375,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4S876G9VCD;
+				DEVELOPMENT_TEAM = 5T2Q4AL4L7;
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../Frameworks/libbinio/libbinio/libbinio/src",
 					"$(SRCROOT)/../../Frameworks/libbinio/libbinio",

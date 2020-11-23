@@ -195,7 +195,7 @@
 				ORGANIZATIONNAME = "Christopher Snowhill";
 				TargetAttributes = {
 					836F6B0F18BDB80D0095E648 = {
-						DevelopmentTeam = 4S876G9VCD;
+						DevelopmentTeam = 5T2Q4AL4L7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -413,7 +413,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4S876G9VCD;
+				DEVELOPMENT_TEAM = 5T2Q4AL4L7;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vgmstream/vgmstream-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -440,7 +440,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4S876G9VCD;
+				DEVELOPMENT_TEAM = 5T2Q4AL4L7;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vgmstream/vgmstream-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
